@@ -1,0 +1,18 @@
+.columns{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    padding-top: 20px;
+    margin: 5px 0;
+}
+
+.column{
+    flex: 1;
+    /* border: 1px solid grey; */
+    margin: 2px;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+}
